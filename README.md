@@ -1,2 +1,2 @@
 # community classroom
-- Pragyan Choudhury says that I am loving this course.
+- This is Pragyan and I am loving this course.
